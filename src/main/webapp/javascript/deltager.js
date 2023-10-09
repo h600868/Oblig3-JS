@@ -6,7 +6,7 @@ class DeltagerManager {
     
     // Deklarer resterende felt-variabler her
 
-    
+    //hei
     
 
     constructor(root) {
